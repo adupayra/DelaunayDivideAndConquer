@@ -7,8 +7,8 @@ Implementation of a Divide and Conquer strategy to build a Delaunay triangulatio
 An implementation of Kruskal's MST algorithm is also given in this repository. These two algorithms was initially used together to find the MST of a fully connected graph (Delaunay triangulation used to reduce number of edges before using Kruskal on reduced graph)
 
 # Example
-
-![image](https://github.com/user-attachments/assets/16f3d2e1-1228-42a9-8869-5639f79d0eca)
+Here we can see in grey the Delaunay triangulation and in red the MST of the graph.
+![image](https://github.com/user-attachments/assets/1dfe2798-68bb-4bdc-a6c9-4dc71cc80d39)
 
 ## References
 [1] Dwyer RA. A simple divide-and-conquer algorithm for computing Delaunay triangulations in o(n log log n) expected time. Proceedings of the Second Annual Symposium on Computational Geometry, 1986; 276–284. </br>
